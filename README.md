@@ -1,4 +1,4 @@
-# luminous_hotels
+# luminous hotels
 
 This contains the source code 
 1. Html code
